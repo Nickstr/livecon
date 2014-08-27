@@ -1,0 +1,8 @@
+---
+# Node.js
+
+- name: Node.js Custom Repo
+  apt_repository: repo='ppa:chris-lea/node.js' update_cache=yes
+
+- name: Node.js
+  apt: pkg=nodejs state=latest

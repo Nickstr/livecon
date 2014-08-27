@@ -2,3 +2,6 @@ vendor/
 bootstrap/compiled.php
 .env.php
 .env.local.php
+.vagrant
+.idea
+
