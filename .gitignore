@@ -4,4 +4,4 @@ bootstrap/compiled.php
 .env.local.php
 .vagrant
 .idea
-
+.DS_Store
